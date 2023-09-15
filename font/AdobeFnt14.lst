@@ -1,0 +1,52 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FiraSans-Bold
+FamilyName:Fira Sans
+StyleName:Bold
+FullName:Fira Sans Bold
+MenuName:Fira Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\psd-html\Font\fira-sans\firasans-bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:369296
+FileModTime:1694036624
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FiraSans-UltraLightItalic
+FamilyName:Fira Sans
+StyleName:UltraLight Italic
+FullName:Fira Sans UltraLight Italic
+MenuName:Fira Sans UltraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\psd-html\Font\fira-sans\firasans-ultralightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:364952
+FileModTime:1694036624
+WeightClass:200
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\psd-html\Font\fira-sans\sil open font license.txt
+FileModTime:1694036624
+%EndFont
+
